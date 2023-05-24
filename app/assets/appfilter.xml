@@ -1679,6 +1679,7 @@
   <item component="ComponentInfo{com.latuabancaperandroid/com.latuabancaperandroid.presentation.activity.LandingPageActivity2}" drawable="intesa_sanpaolo" name="Intesa Sanpaolo Mobile" />
   <item component="ComponentInfo{com.latuabancaperandroid/com.latuabancaperandroid.presentation.activity.SplashActivity}" drawable="intesa_sanpaolo" name="Intesa Sanpaolo Mobile" />
   <item component="ComponentInfo{ru.tinkoff.investing/ru.tinkoff.investing.ui.splash.SplashActivity}" drawable="tinkoff_invest" name="Investments" />
+  <item component="ComponentInfo{com.huangchengfly.tieba.post/com.huangchengfly.post.activities.MainActivity}" drawable="[tiebalite.svg]" name="[Tiebalite]"/> 
   <item component="ComponentInfo{com.evo.inware/com.evo.inware.ui.activities.SplashActivity}" drawable="inware" name="Inware" />
   <item component="ComponentInfo{com.evo.inware/com.evo.inware.ui.activities.SweetHomeActivity}" drawable="inware" name="Inware" />
   <item component="ComponentInfo{cris.org.in.prs.ima/cris.org.in.ima.activities.IRCTCConnectActivity}" drawable="irctc" name="IRCTC Rail Connect" />
